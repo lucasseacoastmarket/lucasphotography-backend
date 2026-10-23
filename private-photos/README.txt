@@ -1,0 +1,1 @@
+Put your original full-resolution files here. Keep this folder private and outside public/. Match filenames configured in server.js. Never commit originals to a public repository.\n
