@@ -1,0 +1,6 @@
+node_modules/
+.env
+data/*
+!data/.gitkeep
+private-photos/*
+!private-photos/README.txt
